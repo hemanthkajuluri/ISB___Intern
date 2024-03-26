@@ -16,7 +16,8 @@ To use this script, you'll need Python installed on your machine along with the 
 You can install these packages by running:
 
 ```
-pip install -r requirements.txt
+pip install pandas
+pip install openpyxl
 ```
 
 ## Usage
