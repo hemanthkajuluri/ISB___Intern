@@ -99,11 +99,8 @@ Follow these steps to get your development environment set up:
 
 1. **Install the required Python packages:**
 
-    If there's a `requirements.txt` file:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
     If you need to install the packages manually:
 
